@@ -11,13 +11,16 @@ Finish time: 1030
 
 Actual time needed to complete: 1.5
 
+
+
+
 Number and name of feature: 2. Modify the Contents
 ________________________________
 
-Estimate of time needed to complete: 1.5 hour
+Estimate of time needed to complete: 2.0 hour
 
 Start time: 1030
 
-Finish time: 1030
+Finish time: 1200
 
 Actual time needed to complete: 1.5
