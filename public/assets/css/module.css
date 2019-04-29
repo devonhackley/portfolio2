@@ -580,7 +580,7 @@ button,
 
   /* Header */
 
-    /* #header {
+     #header {
       width: 20%;
     }
 
@@ -599,11 +599,11 @@ button,
         padding-right: 2.25em;
       }
 
-        #nav ul li a span:before { */
-          /* left: 100%;
+        #nav ul li a span:before {
+          left: 100%;
           margin-left: -1.25em;
           line-height: 2.25em;
-        } */
+        } 
 
   /* Footer */
 
@@ -657,7 +657,7 @@ button,
   /* Header */
 
     #header {
-      height: 25%;
+      height: 27%;
       left: 0;
       position: fixed;
       overflow: hidden;
