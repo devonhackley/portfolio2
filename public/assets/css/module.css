@@ -485,10 +485,10 @@ button,
       background-position: center center;
     }
 
-    #main > section.one {
+    /* #main > section.one {
       background-color: #81918E;
       background-image: url("../../images/space.jpg");
-    }
+    } */
 
     #main > section.two {
       background-color: #f5fafa;
