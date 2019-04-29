@@ -23,3 +23,16 @@ Start time: 1030
 Finish time: 1230
 
 Actual time needed to complete: about 2 hours
+
+
+## Lab 05a.
+
+Number and name of feature: Add Functionality
+
+Estimate of time needed to complete: 3 hours
+
+Start time: 10am
+
+Finish time: 1250pm
+
+Actual time needed to complete: almost 3 hours 
