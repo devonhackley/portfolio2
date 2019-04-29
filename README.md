@@ -29,10 +29,10 @@ Actual time needed to complete: about 2 hours
 
 Number and name of feature: Add Functionality
 
-Estimate of time needed to complete: 2.5 hours
+Estimate of time needed to complete: 3 hours
 
 Start time: 10am
 
-Finish time: _____
+Finish time: 1250pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: almost 3 hours 
